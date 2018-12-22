@@ -7,7 +7,7 @@ import { Customer } from './Customer';
     styleUrls: ['./sandbox.component.css']
 })
 
-// Add SandboxComponent comment
+// Export Sandbox Component
 export class SandboxComponent {
     name = 'John Doe';
     age = 35;
